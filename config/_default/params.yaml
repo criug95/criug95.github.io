@@ -5,8 +5,12 @@
 
 # Appearance
 appearance:
-  mode: system
-  color: emerald
+  mode: light
+  theme_day: minimal
+  theme_night: minimal
+features:
+  day_night: false   # hides the sun/moon toggle
+
 
 # SEO
 marketing:

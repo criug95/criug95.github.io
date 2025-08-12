@@ -4,21 +4,9 @@
   #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: Research
-    url: /research/
-    weight: 10
-  - name: Papers
-    url: /publication/
-    weight: 20
-  - name: Software
-    url: /software/
-    weight: 30
-  - name: Talks
-    url: /talk/
-    weight: 40
-  - name: Teaching and Outreach
-    url: /teaching/
-    weight: 50
-  - name: CV
-    url: /uploads/cv.pdf
-    weight: 60
+  - {name: Research, url: /research/, weight: 10}
+  - {name: Papers,   url: /publication/, weight: 20}
+  - {name: Software, url: /software/, weight: 30}
+  - {name: Talks,    url: /talk/, weight: 40}
+  - {name: Teaching and Outreach, url: /teaching/, weight: 50}
+  - {name: CV, url: /uploads/cv.pdf, weight: 60}
