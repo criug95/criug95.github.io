@@ -1,0 +1,18 @@
+main:
+  - title: "Research"
+    url: /research/
+
+  - title: "Papers"
+    url: /papers/
+
+  - title: "Software"
+    url: /software/
+
+  - title: "Talks"
+    url: /talks/
+
+  - title: "Teaching and Outreach"
+    url: /teaching/
+
+  - title: "CV"
+    url: /cv/
