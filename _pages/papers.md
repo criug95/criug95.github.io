@@ -31,7 +31,7 @@ Refereed papers
 
 6. **Assembling GW231123 in star clusters through the combination of stellar binary evolution and hierarchical mergers**<br>
    L. Paiella, **C. Ugolini**, M. Spera, M. Branchesi, M. Arca Sedda<br>
-   *ApJL* 994, L54 (2025) · [doi](https://doi.org/10.3847/2041-8213/ae1447)
+   *ApJL* 994, L54 (2025) · [doi](https://doi.org/10.3847/2041-8213/ae1447) · [GSSI press release](https://www.gssi.it/communication/news-events/item/26044-gssi-astrophysicists-reveal-the-role-of-star-clusters-in-black-hole-mergers)
 
 7. **Enhanced mass loss of very massive stars: Impact on the evolution, binary processes, and remnant mass spectrum**<br>
    K. G. Shepherd, G. Costa, **C. Ugolini**, G. Volpato, D. Bossini, et al.<br>
